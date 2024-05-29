@@ -1,0 +1,4 @@
+DroidCam, all related components and written material ("software"), is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY OR LIABILITY; without even the implied warranty of merchantability or fitness for a particular purpose. The software is provided "AS IS", and the entire risk as to the quality and performance of the software is with you. Should the software prove defective, and/or should any damages arise (including, but not limited to, loss of use or data), the developer(s), Dev47Apps, or anyone else, shall not be held responsible. Please use at your own risk.
+
+Read entire Terms of Service and Privacy Policy:
+https://www.dev47apps.com/droidcam-terms-privacy.html
