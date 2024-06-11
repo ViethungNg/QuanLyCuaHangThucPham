@@ -13,7 +13,7 @@ public class JDBCHelper {
 
     static String url = "jdbc:sqlserver://localhost:1433;databaseName=DU_AN_1;encrypt=true;trustServerCertificate=true";
     static String username = "sa";
-    static String password = "Viethung1609";    
+    static String password = "1234";    
 
     public static PreparedStatement getStmt(String sql, Object... agrs) throws SQLException {
         Connection con = DriverManager.getConnection(url, username, password);
