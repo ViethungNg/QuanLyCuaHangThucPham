@@ -15,7 +15,7 @@ import javax.swing.ListModel;
 import javax.swing.UIManager;
 
 public class MenuItem extends JButton {
-
+//lk
     private ListModel<String> menuModel;
     private ListModel<String> menuIcon;
     private final RippleEffect rippleEffect = new RippleEffect(this);
