@@ -34,7 +34,7 @@ public class ChucVuDAO extends CuaHangDAO<ChucVu, String> {
             e.printStackTrace();
         }
     }
-
+//
     @Override
     public void update(ChucVu entity) {
         try {
