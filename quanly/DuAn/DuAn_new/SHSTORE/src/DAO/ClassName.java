@@ -9,5 +9,5 @@ package DAO;
  * @author vhung
  */
 class ClassName {
-//Sua lai
+//Sua lai nhé
 }
