@@ -9,5 +9,5 @@ package DAO;
  * @author vhung
  */
 public class DucHung {
-    // Day la nhanh hungg
+    // Day la nhanh main
 }
