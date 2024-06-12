@@ -5,7 +5,7 @@
 package DAO;
 
 import java.util.List;
-//Tuyen
+
 /**
  *
  * @author TIEN SY
